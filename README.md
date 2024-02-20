@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nezery
-- 👀 I’m interested in web development and programing in all it's entirety
-- 🌱 I’m currently learning css
-- 💞️ I’m looking to collaborate on web development related projects.
+- 👀 I’m interested in web development and programming in all its entirety
+- 🌱 I’m currently learning to be a software engineer
+- 💞️ I’m looking to collaborate on software engineering-related projects.
 - 📫 How to reach me ebenyz95@gmail.com
 
 <!---
